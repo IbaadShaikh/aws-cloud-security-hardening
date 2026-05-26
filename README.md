@@ -74,15 +74,11 @@ Security controls were validated through multiple testing procedures, including:
 aws-cloud-security-hardening/
 │
 ├── README.md
-├── ENPM665FINALS.pdf
-├── screenshots/
-│
-├── policies/
-│   ├── bucket-policy.json
-│   ├── iam-policy.json
-│   └── security-group.json
+├── AWS_Cloud_Security_Hardening_Report.pdf
+├── .gitignore
 │
 └── architecture/
+    └── aws-security-architecture.png
 ```
 
 ---
