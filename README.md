@@ -118,7 +118,7 @@ aws-cloud-security-hardening/
 The full technical implementation details, validation steps, and security configurations are included in:
 
 ```text
-ENPM665FINALS.pdf
+AWS_Cloud_Security_Hardening_Report.pdf
 ```
 
 ---
