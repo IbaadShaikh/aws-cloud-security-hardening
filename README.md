@@ -126,7 +126,3 @@ ENPM665FINALS.pdf
 ## Author
 
 Ibaad Shaikh
-
-M.Eng Cloud Engineering @ UMD  
-Cybersecurity & Cloud Engineer  
-Active DoD Secret Clearance
