@@ -113,6 +113,12 @@ aws-cloud-security-hardening/
 
 ---
 
+## Architecture Diagram
+
+![AWS Security Architecture](architecture/aws-security-architecture.png)
+
+---
+
 ## Documentation
 
 The full technical implementation details, validation steps, and security configurations are included in:
